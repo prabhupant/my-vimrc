@@ -6,6 +6,7 @@ let mapleader=","
 colorscheme badwolf             "Good coloring scheme, can be found here https://github.com/sjl/badwolf/
 syntax enable                   "Enable syntax highlighting
 set number                      "Line numbers are good
+set relativenumber
 set showcmd                     "Show incomplete cmds down the bottom
 set cursorline                  "Highlight your current line
 set wildmenu                    "gives a pretty-cool auto-completed wildmenu
